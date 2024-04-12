@@ -1,3 +1,2 @@
-<div id="myDiv">This is a div.</div>
-<br>
-<button type="button" onclick="myFunction()">Set right margin</button>
+
+document.getElementById("myDiv").style.marginRight = "50px";
